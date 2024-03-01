@@ -1,0 +1,98 @@
+*{
+    font-family: sans-serif;
+}
+section {
+  float: left;
+  width: 100%;
+  background-color: #efefef;
+}
+.content{
+  background-color: #efefef;
+  margin: 0 auto;
+}
+.logo{
+    height: 40px;
+  width: auto;
+  margin-top: 8px;
+}
+.slider h1 {
+    margin: 30px auto;
+    font-weight: bold;
+    padding: 10px;
+    color: #CB6015;
+}
+
+
+.header {
+    background-color: #1C1D3C;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-left: 10px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #CB6015;
+  }
+  
+
+
+ 
+  .container h2{
+    color: #CB6015;
+  }
+  
+
+
+  .details {
+    background-color: #1C1D3C;
+    padding: 20px 0;
+  }
+  
+  .details .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .details h5 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #CB6015;
+  }
+  
+  .details ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .details ul li {
+    margin-bottom: 5px;
+  }
+  .details p{
+    color: #fff;
+  }
+  .details ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .details .fa {
+    font-size: 20px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .footer {
+    background-color: #CB6015;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+ 
